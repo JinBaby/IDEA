@@ -8,6 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
 
-        System.out.println("git git git");
+        System.out.println("dev2 git git git");
     }
 }
